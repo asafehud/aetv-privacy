@@ -24,7 +24,7 @@
   <a href="#en">English</a><a href="#he">עברית</a><a href="#ru">Русский</a><a href="#ar">العربية</a>
   <a href="#es">Español</a><a href="#fr">Français</a><a href="#de">Deutsch</a><a href="#pt">Português</a><a href="#it">Italiano</a>
 </nav>
-
+  
 <section id="en" lang="en" dir="ltr">
 <h1>AETV privacy policy</h1>
 <p class="meta">Developer: A.E studio · Effective 17 November 2026 · Applies to AETV (TV) and AETV mobile</p>
